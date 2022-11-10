@@ -4,7 +4,7 @@ void RunOneFile(std::string FilePath, std::string FileName)
 {
     FILE *fp;
     // maybe we need to add some label to the output.txt
-    std::string cmd = "gcc " + FilePath + "\n" + FileName + ".out <Input.txt>ouput.txt";
+    std::string cmd = "gcc " + FilePath + "\n" + FileName + ".out <Input.txt>" + FileName + "_ouput.txt";
     fp = popen(cmd.c_str(), "r");
     if (fp == NULL)
     {

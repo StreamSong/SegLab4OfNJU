@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs144/SegLab4/src/User/User.cc
+User.hh
+/home/cs144/SegLab4/src/User/User.hh
+fstream
+-
+regex
+-
+stdlib.h
+/home/cs144/SegLab4/src/User/stdlib.h
+time.h
+/home/cs144/SegLab4/src/User/time.h
+sys/types.h
+-
+dirent.h
+-
+iostream
+-
+string
+-
+
+/home/cs144/SegLab4/src/User/User.hh
+vector
+-
+string
+-
+

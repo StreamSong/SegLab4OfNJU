@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs144/SegLab4/src/EquivalanceJudge/EquivalanceJudge.cc
+iostream
+-
+string
+-
+string.h
+-
+sys/types.h
+-
+dirent.h
+-
+fstream
+-
+set
+-
+

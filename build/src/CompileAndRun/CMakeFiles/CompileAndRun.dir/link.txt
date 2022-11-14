@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCompileAndRun.a  CMakeFiles/CompileAndRun.dir/RunOneFile.cc.o
+/usr/bin/ranlib libCompileAndRun.a

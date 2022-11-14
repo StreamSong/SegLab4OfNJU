@@ -1,0 +1,2 @@
+/usr/bin/ar qc libEquivalanceJudge.a  CMakeFiles/EquivalanceJudge.dir/EquivalanceJudge.cc.o
+/usr/bin/ranlib libEquivalanceJudge.a

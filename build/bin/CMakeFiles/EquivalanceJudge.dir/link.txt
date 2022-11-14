@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/EquivalanceJudge.dir/EquivalanceJudge.o  -o EquivalanceJudge 

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/cs144/SegLab4/build/src",
+  "command": "/usr/bin/g++-7    -g   -std=gnu++1z -o CMakeFiles/main.dir/main.cc.o -c /home/cs144/SegLab4/src/main.cc",
+  "file": "/home/cs144/SegLab4/src/main.cc"
+},
+{
+  "directory": "/home/cs144/SegLab4/build/src/CompileAndRun",
+  "command": "/usr/bin/g++-7    -g   -std=gnu++1z -o CMakeFiles/CompileAndRun.dir/RunOneFile.cc.o -c /home/cs144/SegLab4/src/CompileAndRun/RunOneFile.cc",
+  "file": "/home/cs144/SegLab4/src/CompileAndRun/RunOneFile.cc"
+},
+{
+  "directory": "/home/cs144/SegLab4/build/src/EquivalanceJudge",
+  "command": "/usr/bin/g++-7    -g   -std=gnu++1z -o CMakeFiles/EquivalanceJudge.dir/EquivalanceJudge.cc.o -c /home/cs144/SegLab4/src/EquivalanceJudge/EquivalanceJudge.cc",
+  "file": "/home/cs144/SegLab4/src/EquivalanceJudge/EquivalanceJudge.cc"
+},
+{
+  "directory": "/home/cs144/SegLab4/build/src/User",
+  "command": "/usr/bin/g++-7    -g   -std=gnu++1z -o CMakeFiles/User.dir/User.cc.o -c /home/cs144/SegLab4/src/User/User.cc",
+  "file": "/home/cs144/SegLab4/src/User/User.cc"
+}
+]

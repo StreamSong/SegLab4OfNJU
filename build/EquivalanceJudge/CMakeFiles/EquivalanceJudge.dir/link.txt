@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/EquivalanceJudge.dir/EquivalanceJudge.cc.o  -o EquivalanceJudge 

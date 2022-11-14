@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs144/SegLab4/src/User/User.hh
+vector
+-
+string
+-
+
+/home/cs144/SegLab4/src/main.cc
+iostream
+-
+User/User.hh
+/home/cs144/SegLab4/src/User/User.hh
+
